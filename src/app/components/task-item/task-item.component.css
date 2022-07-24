@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&display=swap");
+
+.task {
+    font-family: "Poppins", sans-serif;
+    border:1px solid #0589ff;
+    margin-bottom: 20px;
+    background-color: #4d4d4d;
+    box-shadow: 1px 10px 10px rgb(200, 49, 19,0.2);
+    color:#fff;
+}
